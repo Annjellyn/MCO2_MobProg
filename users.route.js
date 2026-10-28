@@ -3,3 +3,4 @@
 // GET /api/users/:id - Fetch user details 
 // POST /api/users - Register new user 
 // PUT /api/users/:id - Update user info 
+// Auth middleware and router export 
