@@ -2,3 +2,4 @@
 // State hooks for user profile data 
 // Profile avatar and header layout 
 // Student details and ID fields 
+// Settings and logout handlers 
