@@ -2,3 +2,4 @@
 // GET /api/users - Fetch all users 
 // GET /api/users/:id - Fetch user details 
 // POST /api/users - Register new user 
+// PUT /api/users/:id - Update user info 
